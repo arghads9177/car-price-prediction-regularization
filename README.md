@@ -41,9 +41,6 @@ This project is designed for exploratory data analysis (EDA) and predictive mode
 - **Regression Modeling**: Using models like Linear Regression, Ridge, Lasso, and others to predict car prices.
 - **Evaluation Metrics**: Analyzing model performance using metrics like R², RMSE, and MAE.
 
-## Conclusion
-This project provides insights into factors affecting car prices and demonstrates the development of a regression model to predict car prices. Through EDA and predictive modeling, this dataset allows us to explore the relationships between car features and their market value.
-
 ## Project Structure
 
 The project is organized as follows:
